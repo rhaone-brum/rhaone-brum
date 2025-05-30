@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil no GitHub! Atualmente estou em transição de carreira. 
 ## 📊 Estatísticas do GitHub
 ![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=rhaone-brum&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rhaone-brum&layout=compact&theme=radical)
+![Linguagens mais usadas]("https://github-readme-stats.vercel.app/api/top-langs/?username=rhaone-brum&theme=radical)
 
 ## 🌐 Conecte-se Comigo!
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/rhaone-brum)
