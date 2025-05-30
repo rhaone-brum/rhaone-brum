@@ -17,9 +17,9 @@ Bem-vindo ao meu perfil no GitHub! Atualmente estou em transição de carreira. 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
 ## 📊 Estatísticas do GitHub
-![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=rhaone-brum&show_icons=true&theme=radical)
+![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=rhaone-brum&show_icons=true&theme=radical&locale=pt-br)
 
-![Linguagens mais usadas]("https://github-readme-stats.vercel.app/api/top-langs/?username=rhaone-brum&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rhaone-brum&theme=radical&layout=compact&custom_title=Tecnologias)
 
 ## 🌐 Conecte-se Comigo!
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/rhaone-brum)
