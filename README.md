@@ -18,9 +18,9 @@ Bem-vindo ao meu perfil no GitHub! Atualmente estou em transição de carreira. 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 ## 📊 Estatísticas do GitHub
-![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=rhaone-brum&show_icons=true&theme=radical&locale=pt-br)
+![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=rhaone-brum&show_icons=true&theme=radical&locale=pt-br)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rhaone-brum&theme=radical&layout=compact&custom_title=Tecnologias)
+![Anurag's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rhaone-brum&theme=radical&layout=compact&custom_title=Tecnologias)
 
 ## 🌐 Conecte-se Comigo!
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/rhaone-brum)
