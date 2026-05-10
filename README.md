@@ -15,6 +15,7 @@ Bem-vindo ao meu perfil no GitHub! Atualmente estou em transição de carreira. 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 ## 📊 Estatísticas do GitHub
 ![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=rhaone-brum&show_icons=true&theme=radical&locale=pt-br)
