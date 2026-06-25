@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil no GitHub! Atualmente estou em transição de carreira. 
 ## 📊 Estatísticas do GitHub
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=rhaone-brum&show_icons=true&theme=radical&locale=pt-br)
 
-![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=rhaone-brum&show_icons=true&theme=radical)
+![Anurag's Github stats](github-readme-stats.vercel.app/api/top-langs/?username=rhaone-brum&layout=compact&theme=radical&hide_border=true")
 
 ## 🌐 Conecte-se Comigo!
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/rhaone-brum)
